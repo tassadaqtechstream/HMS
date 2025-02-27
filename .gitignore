@@ -6,6 +6,7 @@
 /public/storage
 /storage/*.key
 /storage/pail
+/storage
 /vendor
 .env
 .env.backup
@@ -16,6 +17,7 @@ Homestead.json
 Homestead.yaml
 npm-debug.log
 yarn-error.log
+yarn.lock
 /auth.json
 /.fleet
 /.idea
